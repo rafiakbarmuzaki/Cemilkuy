@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71761528160",
+    "project_id": "cemilkuy-3da57",
+    "storage_bucket": "cemilkuy-3da57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71761528160:android:06fe6b4258bb25774b8a05",
+        "android_client_info": {
+          "package_name": "com.example.cemilkuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABd08nQ-sTX5PLmM8XGn11HppfxX5le6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
